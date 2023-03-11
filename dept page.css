@@ -1,0 +1,44 @@
+
+
+div{
+    text-align: center;
+}
+h3{
+    color: crimson;
+    text-align: center;
+ 
+}
+
+
+button{
+    width:250px;
+    height: 150px;
+    margin: 50px;
+    font-size: 20px;
+}
+h1{
+    text-align: center;
+}
+div{
+    text-align: center;
+    
+    
+}
+input{
+    
+    background-color: rgb(50, 50, 247);
+    width: 250px;
+    height: 50px;
+    border-radius: 10px;
+}
+.header4{
+    height: fit-content;
+}
+.header_title4{
+   padding-left: 35vh !important;
+}
+.header4 img{
+    margin-top: 5px;
+    border-radius: 100%;
+    
+}
