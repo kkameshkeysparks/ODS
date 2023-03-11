@@ -1,0 +1,37 @@
+body{
+    background-color:rgb(160, 157, 157);
+}
+h2{
+    color:black;   
+    padding-top: 10px;
+}
+div{
+    text-align: center;
+}
+form{
+     color: black;
+    text-align: center;
+
+   
+}
+
+
+input{
+    
+    background-color: rgb(50, 50, 247);
+    width: 250px;
+    height: 50px;
+    border-radius: 10px;
+}
+.header{
+    height: 6%;
+}
+.header_title{
+   padding-left: 30vh;
+}
+.header img{
+    margin-top: 5px;
+    border-radius: 100%;
+    
+}
+

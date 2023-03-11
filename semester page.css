@@ -1,0 +1,26 @@
+
+body{
+    background-color:rgb(160, 157, 157);
+}
+
+div{
+    text-align: center;
+}
+
+button{
+    width: 250px;
+    height: 150px;
+    margin: 30px;
+    font-size: 20px;
+}
+
+div{
+    text-align: center;
+}
+input{
+    
+    background-color: rgb(50, 50, 247);
+    width: 250px;
+    height: 50px;
+    border-radius: 10px;
+}
