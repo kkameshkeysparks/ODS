@@ -2,19 +2,20 @@ body{
     background-color:rgb(160, 157, 157);
 }
 h2{
-    color:black;   
-    padding-top: 10px;
+    color:rgb(26, 25, 25);
+   padding-top: 10px;
+   /* padding-left: 35vh; */
+   
+    
 }
 div{
     text-align: center;
 }
 form{
-     color: black;
+    color: black;
     text-align: center;
-
-   
+    
 }
-
 
 input{
     
@@ -23,15 +24,11 @@ input{
     height: 50px;
     border-radius: 10px;
 }
-.header{
-    height: 6%;
-}
-.header_title{
-   padding-left: 30vh;
-}
-.header img{
-    margin-top: 5px;
-    border-radius: 100%;
-    
-}
 
+p{
+    border-radius: 50px;
+}
+.student_button button a{
+    color: #fff;
+    text-decoration: none;
+}

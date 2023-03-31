@@ -24,3 +24,7 @@ input{
     height: 50px;
     border-radius: 10px;
 }
+.semesterpage button a{
+    color: #fff;
+    text-decoration: none;
+}
