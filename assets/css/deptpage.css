@@ -42,3 +42,7 @@ input{
     border-radius: 100%;
     
 }
+.department_button button a{
+    color: #fff;
+    text-decoration: none;
+}

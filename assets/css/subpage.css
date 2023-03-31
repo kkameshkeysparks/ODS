@@ -19,3 +19,7 @@ input{
     height: 50px;
     border-radius: 10px;
 }
+.subpage_button button a{
+    color: #fff;
+    text-decoration: none;
+}
